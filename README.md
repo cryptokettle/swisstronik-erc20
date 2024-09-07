@@ -102,3 +102,4 @@ npm run transfer
  https://explorer-evm.testnet.swisstronik.com/transaction/
  ```
 
+# swisstronik-erc20
